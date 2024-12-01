@@ -1,0 +1,26 @@
+baseURL: https://anzin.family/
+languageCode: en-us
+title: "Анзин - история фамилии"
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+
+  homeInfoParams:
+    Title: "Родословная"
+    Content: >
+      - Познайте историю и уникальность фамилии Анзин.
+      
+      - Откройте страницы прошлого и создайте наследие для будущих поколений.
+      
+      - [Исследовать родословную](https://genealogy.anzin.family/). 
+
+menu:
+  main:
+    - name: genealogy
+      url: https://genealogy.anzin.family/
+
